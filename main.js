@@ -1,6 +1,7 @@
 import { Telegraf, Markup } from "telegraf";
 
 const token = "6924398275:AAGHIh86fdgQEll_B6WAiK20NLA5jvz1wA8";
+const webAppUrl = "https://google.com";
 
 const bot = new Telegraf(token);
 
